@@ -3,7 +3,7 @@ Repozitorij za seminarski rad iz Mehatronike - tema : Robotski manipulator: meha
 
 ### To - Do lista
 
--[ ] Urediti README.md
--[ ] Poraditi na opisu projekta
--[ ] Postaviti web stranicu za projekt
--[ ] Uploadati seminar u pdf-u
+- [ ] Urediti README.md
+- [ ] Poraditi na opisu projekta
+- [ ] Postaviti web stranicu za projekt
+- [ ] Uploadati seminar u pdf-u
