@@ -1,6 +1,6 @@
 # Seminar-Mehatronika
 Repozitorij za seminarski rad iz Mehatronike - tema : Robotski manipulator: mehatronički pristup
-(gui1.PNG)
+(https://raw.githubusercontent.com/smamusa/Seminar-Mehatronika/master/gui1.PNG)
 ### To - Do lista
 
 - [ ] Urediti README.md
